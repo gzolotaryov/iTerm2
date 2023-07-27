@@ -11,6 +11,21 @@
    ⌥+←, set Action to "Send escape squence" and set Esc+b
 
    ⌥+→, set Action to "Send escape squence" and set Esc+f
+
+changes in exported keymap:
+ 
+    "0xf702-0x280000-0x0": {
+        "Version": 0,
+        "Action": 10,
+        "Text": "b",
+        "Label": ""
+      },
+    "0xf703-0x280000-0x0": {
+        "Version": 0,
+        "Action": 10,
+        "Text": "f",
+        "Label": ""
+      },
     
   
 
